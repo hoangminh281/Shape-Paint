@@ -1,0 +1,106 @@
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe.config
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.Properties.Resources.resources
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.GenerateResource.Cache
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.pdb
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.exe
+c:\users\windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.MainForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.PointForm.resources
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe.config
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.MainForm.resources
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.PointForm.resources
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.GenerateResource.Cache
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.CircleForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.LineForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangleForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.SquareForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TriForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ParallForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.EllipseForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.DiamondForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TrapeForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TransForm.resources
+C:\Users\Windows 10\documents\visual studio 2015\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe.config
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.CircleForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.DiamondForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.EllipseForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.LineForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.MainForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ParallForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.PointForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangleForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.SquareForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TransForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TrapeForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TriForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.GenerateResource.Cache
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.aa.resources
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+C:\Users\Windows 10\Documents\Visual Studio 2017\Projects\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ConeForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe.config
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.pdb
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csprojResolveAssemblyReference.cache
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.CircleForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ConeForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.DiamondForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.EllipseForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.LineForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.MainForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ParallForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.PointForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.Properties.Resources.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangleForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.SquareForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TransForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TrapeForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TriForm.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.aa.resources
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.GenerateResource.Cache
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.exe
+C:\Users\PHUC\Desktop\backup\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.pdb
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe.config
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.exe
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\Do_an_Ki_thuat_do_hoa.pdb
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\bin\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csprojResolveAssemblyReference.cache
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.CircleForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ConeForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.DiamondForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.EllipseForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.LineForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.MainForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.ParallForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.PointForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.Properties.Resources.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangleForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.SquareForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TransForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TrapeForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.TriForm.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.RectangularForm.aa.resources
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.GenerateResource.Cache
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.csproj.CoreCompileInputs.cache
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\aa\Do_an_Ki_thuat_do_hoa.resources.dll
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.exe
+D:\onc++\Do_an_Ki_thuat_do_hoa\Do_an_Ki_thuat_do_hoa\obj\Debug\Do_an_Ki_thuat_do_hoa.pdb
